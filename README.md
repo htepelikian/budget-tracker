@@ -5,6 +5,9 @@ WELCOME TO THE BUDGET TRACKER!
 For the traveling soul in you, who also wants to be mindful of their budget. With this app, you will be able to add expenses and deposits to your budget with or without a connection. When transactions are entered offline, the Budget Tracker should populate the total when brought back online. Have an accurate account balance when traveling!
 
 
+![budget-tracker](https://user-images.githubusercontent.com/85534144/130309957-33255d49-dea0-49ec-9e6f-fb9de6bf9e85.gif)
+
+
 
 
 https://tranquil-tor-24120.herokuapp.com
